@@ -1,0 +1,20 @@
+{
+  "name": "归零的博客",
+  "short_name": "归lin",
+  "display": "standalone",
+  "background_color": "#fff",
+  "start_url": "/index.html",
+  "description": "guilin的个人博客",
+  "icons": [
+    {
+      "src": "images/instagram.png",
+      "sizes": "62x62",
+      "type": "image/png"
+    },
+    {
+      "src": "images/manifest.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
